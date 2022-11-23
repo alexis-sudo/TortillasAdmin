@@ -1,0 +1,52 @@
+.customTop{
+    margin-top: 18%;
+}
+
+.statusGreen{
+    color: #00ca00;
+}
+
+.statusRed{
+    color: #FF0000;
+}
+
+.statusYellow{
+    color: #f1f10d;
+}
+
+.statusNone{
+    color: rgb(0, 132, 255);
+}
+
+.statusPagado{
+    color: #1d8a13;
+}
+
+.headerColor{
+    background-color: #6f7174 !important;
+}
+
+.card{
+    border: 1px solid #969191 !important;
+}
+
+.bg-custom-card{
+    background-color: #f6f7fa;
+}
+
+.w-8{
+    width: 8%;
+}
+
+.w-30{
+    width: 30%;
+}
+.w-60{
+    width: 60%;
+}
+
+/* 10+63+ */
+#notfound{
+    background-color: rgb(8,28,34);
+    color: rgb(233, 238, 245);
+}
